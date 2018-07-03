@@ -15,14 +15,15 @@ This module contains functions for converting between Julian dates and calendar 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/jdcal-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jdcal-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/jdcal-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/jdcal-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/jdcal-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/jdcal-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/jdcal-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/jdcal-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jdcal/badges/version.svg)](https://anaconda.org/conda-forge/jdcal)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jdcal/badges/downloads.svg)](https://anaconda.org/conda-forge/jdcal)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-jdcal-green.svg)](https://anaconda.org/conda-forge/jdcal) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/jdcal.svg)](https://anaconda.org/conda-forge/jdcal) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/jdcal.svg)](https://anaconda.org/conda-forge/jdcal) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/jdcal.svg)](https://anaconda.org/conda-forge/jdcal) |
 
 Installing jdcal
 ================
